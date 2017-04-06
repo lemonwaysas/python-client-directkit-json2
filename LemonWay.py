@@ -19,7 +19,7 @@ class LWException(Exception):
         return 'LWException: ' + self.value
 
 
-# IP of end
+# IP of end-user
 def getUserIP():
     hostname = socket.gethostname()
     ip = socket.gethostbyname(hostname)
