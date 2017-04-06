@@ -44,7 +44,7 @@ The example is only the basic, you can also play with our API by calling other s
 - [Transfer money from wallet to a bank account](http://documentation.lemonway.fr/api-en/directkit/money-out-debit-a-wallet-and-credit-a-bank-account/moneyout-external-fund-transfer-from-a-wallet-to-a-bank-account)
 - [Transfer money from wallet to other wallet](http://documentation.lemonway.fr/api-en/directkit/p2p-transfer-between-wallets/sendpayment-on-us-payment-between-wallets)
 
-#Note
+# Note
 
 * This is only example with basic Python. You should to rewrite your own solution.
 * A good practices is to log any request / response to our service in Development mode.
